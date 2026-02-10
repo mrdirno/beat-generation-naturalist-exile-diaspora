@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_naturalist_exile_diaspora",
+  "title": "The Vein: A Corpuscle's Journey",
+  "tagline": "A runaway and a refugee chase truth across the poisoned veins of postwar America.",
+  "target_words": 70000,
+  "actual_words": 66819,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Internal vs. Imposed Exile",
+    "The Search for Authentic Witness",
+    "The Diaspora of the American Dream",
+    "Found Family Among the Stranded"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Greyhound Lung",
+      "words": 2800
+    },
+    {
+      "ch": 2,
+      "title": "The Geography of Disappointment",
+      "words": 2750
+    },
+    {
+      "ch": 3,
+      "title": "Alma's Sketches",
+      "words": 2700
+    },
+    {
+      "ch": 4,
+      "title": "Denver's Crust of Truth",
+      "words": 2600
+    },
+    {
+      "ch": 5,
+      "title": "The Jazz Cellar Sermon",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "Moses of the Rails",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Harvest of Ashes",
+      "words": 2850
+    },
+    {
+      "ch": 8,
+      "title": "The Canyon's Maw",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "Vegas, Neon God",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "The Cost of a Ride",
+      "words": 2650
+    },
+    {
+      "ch": 11,
+      "title": "Tijuana Baptism",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The City of Seven Hills",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "North Beach Incantations",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "The Howl Unwritten",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "Press Type and Blood",
+      "words": 2600
+    },
+    {
+      "ch": 16,
+      "title": "The Landlord's Calculus",
+      "words": 2450
+    },
+    {
+      "ch": 17,
+      "title": "Fog and Fury",
+      "words": 2550
+    },
+    {
+      "ch": 18,
+      "title": "A Different Draft",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "The Letters from Cleveland",
+      "words": 2750
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Journals",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "Alma's Exhibition",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Ghost on the Coast",
+      "words": 2650
+    },
+    {
+      "ch": 23,
+      "title": "The Internal Frontier",
+      "words": 2800
+    },
+    {
+      "ch": 24,
+      "title": "Corpuscle, At Rest",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character encounters a community of 'stranded' people (e.g., in a hollowed-out city, a migrant camp, a forgotten town) who have built their own meaning outside the American Dream.",
+      "Draft a letter from Leo's younger brother back in Cleveland, revealing the fallout of Leo's departure and his own perspective on their family's 'quiet desperation'.",
+      "Create a monologue from the perspective of a minor character met on the road (e.g., the sour-mash man, a jazz musician, a fleeing farmworker) about their own personal exile.",
+      "Write a 'lost chapter' set in a location the novel glosses over (e.g., the Vegas stint, the Tijuana episode) focusing on a moment of failed connection or stark revelation."
+    ],
+    "technical": [
+      "Build an interactive map tracing Leo and Alma's journey from Cleveland to San Francisco, allowing users to click on locations to read excerpts, see period photos, and hear ambient sounds (bus depots, jazz clubs).",
+      "Create a text analysis tool that compares the linguistic style (sentence length, word choice, metaphor density) of Leo's notebook entries against the novel's third-person narration, visualizing the 'beat' vs. 'naturalist' tension."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jack Kerouac",
+      "Émile Zola",
+      "James Baldwin",
+      "Joan Didion"
+    ]
+  },
+  "cover_prompt": "A lone figure, a corpuscle in a tattered coat, runs along a vast, rusted pipeline under a bruised twilight sky, chased by the distant searchlights of a decaying refinery city, while a second figure emerges from a shadowed drainage pipe, their paths converging on this industrial artery, in the gritty, documentary-style realism of Robert Frank's *The Americans*, with the raw, expressive brushwork and existential mood of a Leonid Afremov nightscape, book cover framing, centered composition with a dramatic low-angle shot looking up the pipeline as it vanishes into a smoggy horizon, cinematic chiaroscuro lighting with stark pools of sodium-vapor orange and deep indigo shadows, a palette of industrial rust, chemical green, and twilight purple, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
